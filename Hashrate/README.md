@@ -1,0 +1,2 @@
+Considering the value of computational power, this is a dedicated folder to hashrate.
+Now I'm using the colab of google, everything goes smoothly until I found out that the computation units are consumed with a stunning velocity, these units are not cheap, finding a method to reduce my expenditure seems crucial for now.
