@@ -1,0 +1,3 @@
+It's not a common case that AI gives you a decent image at the first time, or put it frankly, you will always get strange pictures at first, the common cases are extra limps, multi-bodies and twisted faces.
+This may sound a little tricky to modify the pictures rather than just take it and put it online(if you don't want others to be scared by the raw picture), but fine-tuning is indeed necessary for AI paiting at this time(however if you are using midjourney, usually the direct output of the model is already pretty enough). 
+The techniques to fine-tuning pictures called inpainting, this folder will record various methods to do so.
